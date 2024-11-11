@@ -1,5 +1,8 @@
 # Project
-Funkijas
+
+
+Darbs tika veidots Vizard vidē
+
 
 Time Travelers Academy: Final Exam 
 
